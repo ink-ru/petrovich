@@ -16,7 +16,7 @@ A [Telegram](https://telegram.org/) bot running with RSS and VK group integratio
 3. Bot using [botan.io](http://botan.io) for collecting statistic.
 
 ### Installation
-1. [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vizigin/petrovich)
+1. [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ink-ru/petrovich)
 2. Create the bot on Telegram (just say `/newbot` to [BotFather](https://core.telegram.org/bots#botfather))
 3. Update `config.py` with your information (tokens, keys, etc)
 4. Uncomment last 2 lines of the `bot.py` script and push all changes to Heroku
